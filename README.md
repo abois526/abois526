@@ -4,12 +4,12 @@
 
 ## Welcome to my GitHub page
 
-### About Me
+#### About Me
 Hi, my name is Andrew Boisvert. I am a BSc Computer Science student at Mount Royal University in Calgary, AB.
 
 I am very interested in low-level programming and game design, but I've found myself enjoying working with the wide variety of technology I've been fortunate to have been exposed to. 
 
-### Some Things About Me
+#### Some Things About Me
 
 - 📍 Education: I am in the BSc Computer Science program at Mount Royal University in Calgary, AB
 - 😄 Pronouns: He/Him
