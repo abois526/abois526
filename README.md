@@ -7,7 +7,6 @@
 ### About Me
 
 - 📍 I am in the BSc Computer Science program at Mount Royal University in Calgary, AB.
-- 🌱 I’m currently learning C and Motorola MC68K assembly for low-level programming.
-- 🔭 I’m currently working with a partner on a low-level videogame engine for the Atari ST which we are using to develop a rhythm/music game. 
-- 👯 I’m looking to collaborate on student projects and I'm open to any sort of ideas or proposals. 
+- 🌱 I’m currently working on a basic shell program to learn more about the Linux O/S.
+- 🔭 I've recently worked with a partner on a low-level videogame engine for the Atari ST, which we used to develop a rhythm game. 
 - 🎮 In my free time I like to write and play music, play retro games, watch Formula 1 and other motorsports with friends, and go for nature walks. 
