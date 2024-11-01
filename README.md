@@ -14,4 +14,4 @@
 - 🔭 Recent projects of mine include:
   - A basic Linux shell program (to study O/S concepts)
   - A low-level videogame engine for the Atari ST, used to develop a rhythm game (to study low-level programming concepts)
-- 🎮 In my free time I like to write and play music, play retro games, watch Formula 1, and spending time with nature
+- 🎮 In my free time I like to write and play music, play retro games, watch Formula 1, and spend time with nature
