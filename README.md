@@ -7,7 +7,7 @@
 ### About Me
 
 - 📍 I am in the BSc Computer Science program at Mount Royal University in Calgary, AB
-- 🧑🏻‍💻 I am currently exploring internship opportunities
+- 🧑🏻‍💻 I am currently exploring co-op and internship opportunities
 - 🌱 Currently, I am working on:
   - A project to analyze CPU scheduling algorithms and their benefits/drawbacks
   - The Foundational C# with Microsoft developer certification
