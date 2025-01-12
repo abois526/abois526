@@ -7,11 +7,11 @@
 ### About Me
 
 - 📍 I am in the BSc Computer Science program at Mount Royal University in Calgary, AB
-- 🧑🏻‍💻 I am currently exploring co-op and internship opportunities
 - 🌱 Currently, I am working on:
-  - A project to analyze CPU scheduling algorithms and their benefits/drawbacks
-  - The Foundational C# with Microsoft developer certification
+  - Planning out a couple of new projects
 - 🔭 Recent projects of mine include:
+  - A process scheduling simulator to analyze the benefits and/or drawbacks of various scheduling algorithms
   - A basic implementation of a Linux shell (to study operating system concepts)
   - An rhythm video game for the Atari ST (to study low-level programming concepts)
+- 🧑🏻‍💻 I will soon be exploring co-op and internship opportunities
 - 🎮 In my free time I like to write and play music, play retro games, watch Formula 1, and spend time with nature
