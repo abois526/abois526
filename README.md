@@ -8,6 +8,7 @@
 
 - 📍 I am in the BSc Computer Science program at Mount Royal University in Calgary, AB
 - 🌱 Currently, I am working on:
+  - Learning web development
   - Exploring audio plug-in development
 - 🔭 Recent projects of mine include:
   - A process scheduling simulator to analyze the benefits and/or drawbacks of various scheduling algorithms
