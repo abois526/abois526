@@ -2,9 +2,7 @@
 **abois526/abois526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Welcome to my GitHub page
-
-### About Me
+## About Me
 
 - I am in the BSc Computer Science program at Mount Royal University in Calgary, AB
 - I'm currently working on:
