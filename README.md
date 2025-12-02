@@ -12,7 +12,7 @@
   - Exploring audio plug-in development
 - Recent projects of mine include:
   - A SPA for a shopping site (HTML / Tailwind CSS / Vanilla JS)
-  - A CLI-based process scheduling simulator to analyze the benefits and/or drawbacks of different scheduling algorithms (C)
+  - A CLI-based process scheduling simulator to analyze potential benefits and drawbacks of different scheduling algorithms (C)
   - A basic Linux shell to explore operating system concepts (C)
   - A rhythm-based video game for the Atari ST with a custom game engine (C / m68k ASM)
 - In my free time I like to write and play music, play retro games, watch Formula 1, and spend time outdoors
