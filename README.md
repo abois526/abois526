@@ -5,10 +5,12 @@
 ## About Me
 
 - I am in the BSc Computer Science program at Mount Royal University in Calgary, AB
-- I'm currently working on:
+- I am currently working on:
   - Learning web development
-  - Exploring audio plug-in development
+  - Learning about and planning out some audio plug-in development (C++ / JUCE)
+  - Planning the development of a "HP-16C Computer Scientist" calculator emulator
 - Recent projects of mine include:
+  - Creating an API with various routes (Node/Express)
   - A SPA for a shopping site (HTML / Tailwind CSS / Vanilla JS)
   - A CLI-based process scheduling simulator to analyze potential benefits and drawbacks of different scheduling algorithms (C)
   - A basic Linux shell to explore operating system concepts (C)
