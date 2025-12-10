@@ -8,9 +8,8 @@
 - I am currently working on:
   - Learning web development
   - Learning about and planning out some audio plug-in development (C++ / JUCE)
-  - Planning the development of a "HP-16C Computer Scientist" calculator emulator
 - Recent projects of mine include:
-  - Creating an API with various routes (Node/Express)
+  - Creating a REST-like API with various routes to retrieve data (Node / Express)
   - A SPA for a shopping site (HTML / Tailwind CSS / Vanilla JS)
   - A CLI-based process scheduling simulator to analyze different scheduling algorithms (C)
   - A basic Linux shell to explore operating system concepts (C)
