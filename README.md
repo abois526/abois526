@@ -9,7 +9,7 @@
   - Server development integrating a Postgres database (Node / Express / Supabase)
   - Learning React
   - Learning about and planning out some audio plug-in development (C++ / JUCE)
-- Recent projects of mine include:
+- Recent individual and collaborative projects of mine include:
   - [Creating a REST-like API with various routes to retrieve data (Node / Express)](https://github.com/abois526/artwork-data-api)
   - [A Single Page Application for a shopping site (HTML / Tailwind CSS / Vanilla JS)](https://github.com/abois526/clothing-site-spa)
   - [A CLI-based process scheduling simulator to analyze different scheduling algorithms (C)](https://github.com/abois526/CPU_Scheduling_Simulator)
