@@ -4,9 +4,9 @@
 
 ## About Me
 
-- I am in the BSc Computer Science program at Mount Royal University in Calgary, AB
+- BSc Computer Science student at Mount Royal University in Calgary, AB
 - I am currently working on:
-  - Server development integrating a Postgres database (Node / Express / Supabase)
+  - Developing an API that provisions a cloud-based DBMS (Node / Express / Supabase)
   - Learning React
   - Learning about and planning out some audio plug-in development (C++ / JUCE)
 - Recent individual and collaborative projects of mine include:
