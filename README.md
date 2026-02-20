@@ -9,7 +9,7 @@
   - Learning React and TypeScript
   - Learning about and planning out some audio plug-in development (C++ / JUCE)
 - Recent individual and collaborative projects of mine include:
-  - [Creating REST-like API for hit Spotify songs utilizing a Postgres database hosted on Supabase and tested with Postman (Node / Express / Supabase / Postman)](https://github.com/abois526/supabase-spotify-api)
+  - [Creating a REST-like API for hit Spotify songs utilizing a Postgres database hosted on Supabase and tested with Postman (Node / Express / Supabase / Postman)](https://github.com/abois526/supabase-spotify-api)
   - [Creating a REST-like API with various routes to retrieve data (Node / Express)](https://github.com/abois526/artwork-data-api)
   - [A Single Page Application for a shopping site (HTML / Tailwind CSS / Vanilla JS)](https://github.com/abois526/clothing-site-spa)
   - [A CLI-based process scheduling simulator to analyze different scheduling algorithms (C)](https://github.com/abois526/CPU_Scheduling_Simulator)
