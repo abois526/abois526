@@ -6,8 +6,9 @@
 
 - BSc Computer Science student at Mount Royal University in Calgary, AB
 - I am currently working on:
+  - Developing a habitat suitability map by utilizing GeoAI and a variety of modeling techniques for a research project
   - Learning React and TypeScript
-  - Learning about and planning out some audio plug-in development (C++ / JUCE)
+  - Learning about and planning out audio plug-in development (C++ / JUCE)
 - Recent individual and collaborative projects of mine include:
   - [Creating a REST-like API for hit Spotify songs utilizing a Postgres database hosted on Supabase and tested with Postman (Node / Express / Supabase / Postman)](https://github.com/abois526/supabase-spotify-api)
   - [Creating a REST-like API with various routes to retrieve data (Node / Express)](https://github.com/abois526/artwork-data-api)
