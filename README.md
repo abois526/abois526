@@ -24,11 +24,11 @@ Contact me here -
 
 ## Recent Academic Projects
 - **[8-Bit Hero](https://github.com/abois526/Atari_ST_Game_8-Bit_Hero):** (*C, m68k ASM*)
-  - Guitar Hero-inspired rhythm game for the Atari ST, built from scratch with a partner for a Computer Systems/Architecture course. Includes our own interrupt handlers for keyboard input and frame timing, double-buffered raster graphics, and music and sound effects driven directly through the sound chip. (*C, m68k ASM*)
+  - Guitar Hero-inspired rhythm game for the Atari ST, built from scratch with a partner for a Computer Systems/Architecture course. Includes our own interrupt handlers for keyboard input and frame timing, double-buffered raster graphics, and music and sound effects driven directly through the sound chip. 
 - **[Spotify playlist builder SPA](https://github.com/abois526/comp-4513-assignment-2-dev):** (*React, TypeScript, Supabase, Tailwind, shadcn/ui*)
   - React SPA for exploring a Spotify dataset and building playlists. Features sortable and filterable song tables, radar charts of each song's audio features, and related-song recommendations. 
 - **[Spotify songs API](https://github.com/abois526/supabase-spotify-api):** (*Node, Express*)
-  - Read-only REST API with endpoints for searching, sorting, and filtering songs, along with mood-based song rankings. Tested with a Postman test suite and deployed on Render. *Node, Express*
+  - Read-only REST API with endpoints for searching, sorting, and filtering songs, along with mood-based song rankings. Tested with a Postman test suite and deployed on Render. 
 - **[Clothing storefront SPA](https://github.com/abois526/clothing-site-spa):** (*Vanilla JS, Tailwind CSS*)
   - Storefront website, custom built without a JS library or framework, using only Tailwind CSS for styling. Includes a simplified client-side router, template-based rendering, multi-filter product search, and a shopping cart persisted in localStorage. 
 - **[CPU scheduling simulator](https://github.com/abois526/CPU_Scheduling_Simulator):** (*C*)
